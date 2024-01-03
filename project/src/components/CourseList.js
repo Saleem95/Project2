@@ -14,7 +14,9 @@ const CourseList = ({ courses, loadCourses }) => {
         <div key={course.id}>
           <h2>{course.name}</h2>
           <p>Instructor: {course.instructor}</p>
-          {/* Add more course details */}
+          Add more course details
+          Add more course details
+
          </div>
       )
       )}
